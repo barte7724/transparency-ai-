@@ -1,6 +1,13 @@
 # Transparency AI
 **Your AI-powered claim checker, coming soon!**
+
+## Features
+- 🔹 Easy to use
+- 🔹 Source-based verdicts
+- 🔹 Honest uncertainty when evidence conflicts
+
 ---
+
 # What It Does
 Transparency AI helps users evaluate claims by:
 - ✅ Providing clear explanations  
