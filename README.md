@@ -11,15 +11,15 @@
 
 ## Features
 
-✨ **Easy to use**  
+**Easy to use**  
 - Simple copy-paste interface  
 - No coding required  
 
-📚 **Source-based verdicts**  
+**Source-based verdicts**  
 - Shows references for every claim  
 - Transparent and evidence-backed  
 
-⚖️ **Honest uncertainty**  
+**Honest uncertainty**  
 - Highlights conflicting evidence  
 - Doesn’t overstate reliability
 
@@ -27,9 +27,9 @@
 
 # What It Does
 Transparency AI helps users evaluate claims by:
-- ✅ Providing clear explanations  
-- ✅ Showing cited sources  
-- ✅ Highlighting uncertainty when evidence conflicts  
+- Providing clear explanations  
+- Showing cited sources  
+- Highlighting uncertainty when evidence conflicts  
 
 ---
 
