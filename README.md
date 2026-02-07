@@ -1,12 +1,7 @@
 # Transparency AI
 **Your AI-powered claim checker, coming soon!**
-# 🔍 Transparency AI
-
-*Paste a claim. Get a sourced verdict in seconds.*
-
 ---
-
-## What It Does
+# What It Does
 Transparency AI helps users evaluate claims by:
 - ✅ Providing clear explanations  
 - ✅ Showing cited sources  
