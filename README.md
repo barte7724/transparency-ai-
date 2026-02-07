@@ -1,5 +1,9 @@
-# Transparency AI
-**Your AI-powered claim checker, coming soon!**
+# 🔍 Transparency AI
+
+**Paste a claim. Get a sourced verdict in seconds.**  
+*AI-powered. Evidence-backed. Honest about uncertainty.*  
+
+---
 
 ## Features
 - 🔹 Easy to use
