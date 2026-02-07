@@ -7,11 +7,19 @@
   <a href="#" style="background-color:#4CAF50;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;">Try it Now</a>
 </p>
 ---
-
 ## Features
-- 🔹 Easy to use
-- 🔹 Source-based verdicts
-- 🔹 Honest uncertainty when evidence conflicts
+
+<div style="display:flex; gap:10px; flex-wrap:wrap;">
+  <div style="background-color:#e0f7fa; padding:10px; border-radius:5px; flex:1; min-width:150px;">
+    🔹 Easy to use
+  </div>
+  <div style="background-color:#ffe0b2; padding:10px; border-radius:5px; flex:1; min-width:150px;">
+    🔹 Source-based verdicts
+  </div>
+  <div style="background-color:#dcedc8; padding:10px; border-radius:5px; flex:1; min-width:150px;">
+    🔹 Honest uncertainty when evidence conflicts
+  </div>
+</div>
 
 ---
 
