@@ -1,13 +1,23 @@
-# Transparency AI
+# 🔍 Transparency AI
 
-Transparency AI is a project that helps users evaluate claims by providing sourced context, clear explanations, and uncertainty-aware feedback.
+*Paste a claim. Get a sourced verdict in seconds.*
 
-## Try it now
-- Paste a claim
-- Get a verdict in seconds
-- Learn how reliable your sources are
+---
 
-Status: Early concept / in progress
-🔍 Transparency AI  
-✅ Paste a claim  
-📊 Get a verdict in seconds  
+## What It Does
+Transparency AI helps users evaluate claims by:
+- ✅ Providing clear explanations  
+- ✅ Showing cited sources  
+- ✅ Highlighting uncertainty when evidence conflicts  
+
+---
+
+## How to Use
+1. Paste any statement or claim  
+2. Transparency AI evaluates the reliability  
+3. Receive a clear verdict and context  
+
+---
+
+## Status
+Early development – live demo coming soon!
