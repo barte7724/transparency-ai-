@@ -8,3 +8,6 @@ Transparency AI is a project that helps users evaluate claims by providing sourc
 - Learn how reliable your sources are
 
 Status: Early concept / in progress
+🔍 Transparency AI  
+✅ Paste a claim  
+📊 Get a verdict in seconds  
