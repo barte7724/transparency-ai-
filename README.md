@@ -25,6 +25,12 @@
 
 ---
 
+## Live Demo (Coming Soon)
+
+![Demo Screenshot](https://via.placeholder.com/600x300?text=Transparency+AI+Demo)
+
+---
+
 # What It Does
 Transparency AI helps users evaluate claims by:
 - Providing clear explanations  
@@ -37,6 +43,12 @@ Transparency AI helps users evaluate claims by:
 1. Paste any statement or claim  
 2. Transparency AI evaluates the reliability  
 3. Receive a clear verdict and context  
+
+---
+
+## Early Access
+Sign up to be the first to try Transparency AI!  
+*(Link or email form coming soon)*
 
 ---
 
