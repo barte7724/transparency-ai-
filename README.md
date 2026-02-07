@@ -3,6 +3,9 @@
 **Paste a claim. Get a sourced verdict in seconds.**  
 *AI-powered. Evidence-backed. Honest about uncertainty.*  
 
+<p align="center">
+  <a href="#" style="background-color:#4CAF50;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;">Try it Now</a>
+</p>
 ---
 
 ## Features
