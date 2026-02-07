@@ -1,3 +1,5 @@
+# Transparency AI
+**Your AI-powered claim checker, coming soon!**
 # 🔍 Transparency AI
 
 *Paste a claim. Get a sourced verdict in seconds.*
